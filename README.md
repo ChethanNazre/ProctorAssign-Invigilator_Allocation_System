@@ -38,5 +38,5 @@ Follow the prompts to input data and generate invigilator allocations.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Authors
+Author:
 Chethan Nazre S
